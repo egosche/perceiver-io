@@ -30,6 +30,10 @@ interfaces for model training and Hugging Face 🤗 interfaces for inference.
   </tr>
 </table>
 
+## About this fork
+
+This fork relaxes the project dependencies by allowing einops versions higher than 0.4.X.
+
 ## Overview
 
 Core of the `perceiver-io` library are *backend models*, lightweight PyTorch implementations of Perceiver,
