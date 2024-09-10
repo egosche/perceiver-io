@@ -31,7 +31,7 @@ packages = [
 include = ["docs"]
 
 [tool.poetry.dependencies]
-python = "^3.8,<3.11"
+python = "^3.8,<=3.11"
 pytorch-lightning = "^2.0"
 torch = "^2.0"
 fairscale = "^0.4"
